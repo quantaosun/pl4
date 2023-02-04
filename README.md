@@ -13,10 +13,6 @@ The process is:
 - 4.Use the free energy perturbation with high computational cost to further verify the difference in the binding free energy of a' and b', and decide whether to synthesize b.
 
 
-- 1.pl3 docking to obtain an initial docked complex, outputs are ```output.pdb``` and ```Docked1.pdb```, i.e., p and a
-- 2.Making-it-rain MD to optimise the docked pose,  outputs is prot_lig_prod_1.pdb, i.e., p' and a'
-- 3.Fegrow to design new analogues and score with CNN powered Ginia, output is the best conformer of b,  i.e., b'
-- 4. FEP simulation with third-party workflow
 
 
 
