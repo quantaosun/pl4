@@ -10,7 +10,7 @@ The process is:
 - 2.By kinetically optimizing **p-a**, we get **p'-a'**
 - 3.Modification of **a'** is mainly to add a small substituent at the position of the H atom to obtain a new molecule **b**, and sample the conformation of **b** to obtain **[b]**; perform a preliminary score on **[b]**, which integrates CNN or machine learning The scoring function to find a better scoring **b'**
 
-- 4.Use the free energy perturbation with high computational cost to further verify the difference in the binding free energy of a' and b', and decide whether to synthesize b.
+- 4.Use the free energy perturbation with high computational cost to further verify the difference in the binding free energy of **a'** and **b'**, and decide whether to synthesize b.
 
 
 
